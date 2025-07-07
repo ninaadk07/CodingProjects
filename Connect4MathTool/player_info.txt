@@ -1,0 +1,72 @@
+
+------------------------------------------
+
+Player1: 
+Name: Damon
+Password: b'gAAAAABkAJcNGsGgqeurG0tXKzWLuMXBNavpETvaeOhhSC3HoGqoHNwkOkKMRQknEMeKXSa5rS8mb7TSq5LoXKYyCRhifax1PQ=='
+Key: b'gxVpu0U4a7SszAsrliOMjSjs3zFSEZmZRAUe5M8guU0='
+
+Player 2: 
+Name: John
+Password: b'gAAAAABkAJcTxL4Tk6nfpd8AyttIQ5w1WsznCfnEaVxGUSbkvWLfaMY22f3Rlq4FC3zGNSfRoeNJ32RWLpsezmVPqRiGZSS8jg=='
+Key: b'5DJ310r6TCT9Me7vzEVwt6z40NWeic5aq55eGotIDO0='
+
+------------------------------------------
+
+Player1: 
+Name: harshavardhanmishra
+Password: b'gAAAAABkDMuiZydux1vCqdt4iDpQm8yeoq-DPLEdzYltXajZurSBVaXNqRHijSjDGlUY5ADpsIk5mMZPGXCE0ExMyUZ9DS-vFA=='
+Key: b'RJ1Ud6MeMgxOoAxdvrMmYTQbUYpLTRlcgVSIrf6Nic4='
+
+Player 2: 
+Name: dmon
+Password: b'gAAAAABkDMuobUisBZZw2IFXPceICTMQARCC1nVGHos54ULBUse2f_MA0-F5bUGU_kso8WJPAZU3TLfHYUfHTdLGcVYo_O2Cpg=='
+Key: b'vNrXFZoL1Dz4ET81Gr15U7KBbTzqCE3RpWCrVcATIF4='
+
+------------------------------------------
+
+Player1: 
+Name: Peter
+Password: b'gAAAAABkDMy0SPl31BqUeVf47dswPSKZPgK1kEMEHBx_tu4R93I3BDCDnA7ZtB9WxCiDWHsM4bUClHzmbuGyClmW0SjhksxlTQ=='
+Key: b'Dmky3W0uw78MFy8wMUsoYBPenyd6N5ypx7WNjwP_Yxc='
+
+Player 2: 
+Name: Danny
+Password: b'gAAAAABkDMy6rw23h2zc9vSmkZHxOak7JCZADCMrLvgn3T1CjHUgm91w-llpKo7K-mB65W1fV3OSo42_L17PuHcMSDeegCcYeg=='
+Key: b'Uqebsg8gk7n5LPlV31uA2mcw4RXVsgwELYlokEooLLs='
+
+------------------------------------------
+
+Player1: 
+Name: Peter
+Password: b'gAAAAABkDM1KQbSfawMFE5CXUQqEpwRMV3CQze38-KoDGsl_jpKDHgforGLflHWGIpsCIwvpuWSrbkmZCwy2dsVF_VQFM3ou9w=='
+Key: b'nSx48mq2FHta209F2QbagOQ1S7j5SuLCzVG-30QHmq0='
+
+Player 2: 
+Name: Danny
+Password: b'gAAAAABkDM1PyIne6cUYJBDi5uoW5dTnRzD42wSwnOuU8hpLAC2OgoLsDC6y8okRkHwRzLVI0887UbjsJQLdt5k4-jU5b4BNzw=='
+Key: b'm594xtrdRjXybnJpthDr6WjSpU5uZnIsRJPH_ziIm_4='
+
+------------------------------------------
+
+Player1: 
+Name: 1
+Password: b'gAAAAABkG1ZuCLow8wXXWWaMyVSAP2a1SIjlFGXJwulBsN1XCvEUvcSFu3wOZuXL4IA4nhKYSrpuecA2hT_t1IribfqQtMXWpA=='
+Key: b'46Z4hsnYDwEDlK4sspks4CiKsTW0FFeldepslfS_1bE='
+
+Player 2: 
+Name: 3
+Password: b'gAAAAABkG1ZwE2E8yWp_aqRtOIKdJEelLrAnhyaKwwgCjt7DeVxkkq6Vcb7zFDzStH-XWLhZusYbHIPFIlH8MPyqGfjS33sqdQ=='
+Key: b'Xl2-E2EKTgAuzOuu-F_hBME0AMbVENiexGVpBPdYU9g='
+
+------------------------------------------
+
+Player1: 
+Name: 12
+Password: b'gAAAAABkG1n9aB6QWDCvyTifCEjM8J2cELWH3ceBOeOiIn2JNu_evGb2TFspGKgKZohPh_D7grX0AMg_pW2lH3NcYo5wN7NXvQ=='
+Key: b'fSaeuCF2JztZa2ABxl3V31lTJRoVr8sB_yqQLXS1vXg='
+
+Player 2: 
+Name: 4
+Password: b'gAAAAABkG1n-SuyD-fNI5a5zzoCU0yVq_z-lVo1x6L_I9wiruWLFHCcrYe37gwOSN8PDKKsVs1dHPXwdCJKV8mjq_3_mKEt-bA=='
+Key: b'93g65W_kv3ZFTlX9mmqWd7XT_P1ZmkBs_hk1j5pa6oY='

@@ -1,0 +1,215 @@
+------------------------------------------
+
+Player: 12
+
+Question number: 0
+
+12, Find the sign of the permutation:
+[2, 5, 12, 14, 19]
+[5, 12, 19, 2, 14]
+
+Correct answer: 1
+User answer: 3
+
+Correct: False
+
+------------------------------------------
+
+Player: 4
+
+Question number: 0
+
+4, Find the value of 3 ^ 912 mod 125
+
+Correct answer: 66
+User answer: 66
+
+Correct: True
+
+------------------------------------------
+
+Player: 12
+
+Question number: 0
+
+12, Find the value of 4 ^ 233 mod 61
+
+Correct answer: 39
+User answer: 39
+
+Correct: True
+
+------------------------------------------
+
+Player: 4
+
+Question number: 0
+
+4, Find the order of the permutation:
+[1, 6, 10, 15]
+[10, 6, 1, 15]
+
+Correct answer: 2
+User answer: 2
+
+Correct: True
+
+------------------------------------------
+
+Player: 12
+
+Question number: 0
+
+Find the dot product of vectors [2 8 8] and [7 1 4]
+
+Correct answer: 54
+User answer: 3
+
+Correct: False
+
+------------------------------------------
+
+Player: 4
+
+Question number: 0
+
+Find the determinant of the following statement.
+[17  7]            [ 7 10] 
+X
+[ 7 15]            [ 1 18] 
+
+
+
+Correct answer: 23895
+User answer: 3
+
+Correct: False
+
+------------------------------------------
+
+Player: 12
+
+Question number: 0
+
+Find the Eigenvalues of the following matrix.
+(To 2 decimal places, seperated by 1 space)
+[ 7 10  3]
+[12 20 20]
+[10 16  6]
+
+
+Correct answer: 37.39 0.75 -5.14
+User answer: 4
+
+Correct: False
+
+------------------------------------------
+
+Player: 4
+
+Question number: 0
+
+Find the determinant of the following matrix:
+[13 19]
+[0 8]
+
+
+
+
+Correct answer: 103
+User answer: 103
+
+Correct: True
+
+------------------------------------------
+
+Player: 12
+
+Question number: 0
+
+12, Find the sign of the permutation:
+[0, 4, 10]
+[4, 0, 10]
+
+Correct answer: -1
+User answer: 3
+
+Correct: False
+
+------------------------------------------
+
+Player: 4
+
+Question number: 0
+
+4, Find the order of the permutation:
+[0, 5, 6, 16, 19]
+[5, 6, 19, 0, 16]
+
+Correct answer: 5
+User answer: 5
+
+Correct: True
+
+------------------------------------------
+
+Player: 12
+
+Question number: 0
+
+Find the dot product of vectors [2 3 2] and [1 9 7]
+
+Correct answer: 43
+User answer: 43
+
+Correct: True
+
+------------------------------------------
+
+Player: 4
+
+Question number: 0
+
+Find the Eigenvalues of the following matrix.
+(To 2 decimal places, seperated by 1 space)
+[8 1 6]
+[ 6 14  0]
+[ 9 15 18]
+
+
+Correct answer: (24.57+0j) (7.72+3.06j) (7.72-3.06j)
+User answer: 4
+
+Correct: False
+
+------------------------------------------
+
+Player: 12
+
+Question number: 0
+
+12, Find the euler totient of 185
+
+Correct answer: 144
+User answer: 4
+
+Correct: False
+
+------------------------------------------
+
+Player: 4
+
+Question number: 0
+
+Find the determinant of the following statement.
+[ 7 14]            [8 9] 
+X
+[14 11]            [17  9] 
+
+
+
+Correct answer: 9639
+User answer: 9639
+
+Correct: True
+
